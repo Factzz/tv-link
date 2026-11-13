@@ -156,69 +156,149 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV15.th" tvg-name="DLTV 15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Education",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn6zv8Sq/IMG-4970.png" group-title="ไม่มีหมวดหมู่",Discovery 
-http://v3tv.live/play/live.php?mac=00:1A:79:59:83:B5&stream=1776024&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KyI0s5n.png" group-title="ไม่มีหมวดหมู่",TSports 7
 http://3bb.engatetv.com:25461/hstn/line/36
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMfY5Cvq/IMG-4952.webp" group-title="ไม่มีหมวดหมู่",SPOTV
-http://v3tv.live/play/live.php?mac=00:1A:79:59:83:B5&stream=1776063&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMfY5Cvq/IMG-4952.webp" group-title="ไม่มีหมวดหมู่",SPOTV 
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=941564&extension=ts&play_token=dut0mwNaDJ
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTZzWrbS/IMG-4957.png" group-title="ไม่มีหมวดหมู่",SPOTV 2
-http://v3tv.live/play/live.php?mac=00:1A:79:59:83:B5&stream=1776069&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTZzWrbS/IMG-4957.png" group-title="ไม่มีหมวดหมู่",SPOTV 2
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=941563&extension=ts&play_token=IVFlu65Bkh
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0D8vvZL/IMG-4974.png" group-title="ไม่มีหมวดหมู่",Monomax 2
-http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Sky Sports Premier League 
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1458669&extension=ts&play_token=rN8hYA9IrM
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Sky Sports premier league
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=83447&extension=ts&play_token=jitiXI3OBZ
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Sky Sport epl 
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=971711&extension=ts&play_token=LbfgCh6AkD
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Nova Sports Premier League
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=2145993&extension=ts&play_token=TxN54YfZki
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Hub Premier 1
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1032529&extension=ts&play_token=gXjWjD0uFT
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Hub Premier 2
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1032528&extension=ts&play_token=gXjWjD0uFT
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Hub Premier 3
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=2065801&extension=ts&play_token=MnRlNS1az3
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Hub Premier 4
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1032526&extension=ts&play_token=iwe57yMdpE
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Hub Premier 5
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1032525&extension=ts&play_token=YyVAeBISHt
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Sky Sports football 
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1905858&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Sky Sports Main Event 
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=30496&extension=ts&play_token=IeClImUdb6
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Sky Sports plus
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1905835&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",LFC TV
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312823&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",MUTV
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Eurosport 1
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1838398&extension=ts&play_token=p5UldcCywW
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Eurosport 2
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1838397&extension=ts&play_token=uFRPDIDQUy
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",FS1
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=45571&extension=ts&play_token=1SqxiMabj2
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",FS2
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=45570&extension=ts&play_token=YK17ob4QjZ
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",TNT sports 1
-http://103.176.90.181:80/play/live.php?mac=00:1A:79:36:8C:9D&stream=577967&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",TNT sports 2
-http://103.176.90.181:80/play/live.php?mac=00:1A:79:36:8C:9D&stream=577966&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",TNT sports 3
-http://103.176.90.181:80/play/live.php?mac=00:1A:79:36:8C:9D&stream=577965&extension=m3u8
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Bein Sports 1
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=683139&extension=ts&play_token=LH2kw6NtCa
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Bein Sports 2
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=683138&extension=ts&play_token=MTyPSV9DAg
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",Bein Sports 3
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=941567&extension=ts&play_token=knqkuxI4MA
-#EXTINF:-1 group-title="ไม่มีหมวดหมู่",USA network
-http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=45466&extension=ts&play_token=24e4iBIRFD
 #EXTINF:-1 group-title="ไม่มีหมวดหมู่",USA network 
 http://4.30.180.36:8420/usa/index.m3u8?token=test
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="",Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp@SD",GSTV (720p)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="",JOJG-DTV (1080p)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV",NHK General TV JOJG-DTV (1080i)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD",NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
+https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (720p)
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (720p)
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/417/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (576p)
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (720p)
+http://170.83.16.50/NHK_WORLD/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p) [Geo-blocked]
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp@JOAXDTV",Nippon TV
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="QVC.jp@SD",QVC (1080p)
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp@SD",Shop Channel (1080p) [Not 24/7]
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="TVTokyo.jp@JOTXDTV",TV Tokyo
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp@SD",Weathernews (720p)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="TVUYamagata.jp@JOWIDTV",TV-U Yamagata (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
+#EXTINF:-1 tvg-id="3HD.th@SD",3HD (576p)
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+#EXTINF:-1 tvg-id="ALTV.th@SD",ALTV (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th@SD",ALTV 4 (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AmarinTV.th@SD",Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+#EXTINF:-1 tvg-id="BoonniyomTV.th@SD",Boonniyom TV (720p)
+https://live.x2.co.th/live/bntv.m3u8
+#EXTINF:-1 tvg-id="Channel5.th@SD",Channel 5 (1080p)
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel5.th@SD",Channel 5 (576p)
+https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.th@SD",Channel 7 (1080p)
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 tvg-id="Channel8.th@SD",Channel 8 (576p)
+https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.th@SD",Channel 8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
+#EXTINF:-1 tvg-id="Channel8.th@SD",Channel 8 (1080p) [Not 24/7]
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.th@SD",Channel 8 (720p) [Geo-blocked]
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="DopaChannel.th@SD",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 tvg-id="ETV.th@SD",ETV (1080p)
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="GMM25.th@SD",GMM 25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="HalalTV.th@SD",Halal TV
+https://vdo.plathong.net/Halaltv/Halaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Mangorn.th@SD",Mangorn (720p)
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-id="MayaChannel.th@SD",Maya Channel
+http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th@SD",MCOT HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th@HD",MCOT HD
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MONO29.th@SD",MONO 29
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+#EXTINF:-1 tvg-id="MONO29.th@SD",MONO 29
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+#EXTINF:-1 tvg-id="MONO29.th@SD",MONO 29
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-id="NationTV.th@SD",Nation TV (576p)
+https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
+#EXTINF:-1 tvg-id="NationTV.th@SD",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+#EXTINF:-1 tvg-id="NBT2HD.th@SD",NBT 2 HD (1080p)
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBTTVChiangMai.th@SD",NBT TV Chiang Mai
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th@SD",NBT World (1080p)
+https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="News1.th@SD",News1 (576p)
+https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
+#EXTINF:-1 tvg-id="One31.th@SD",One 31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="PoliceTV.th@SD",Police TV (1080p)
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBBTV.th@SD",SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTTV.th@SD",SBT TV (720p)
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports7.th@SD",T Sports 7 (240p)
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiChaiyo.th@SD",Thai Chaiyo
+https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th@SD",Thai Parliament TV (1080p) [Not 24/7]
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS.th@SD",Thai PBS (576p)
+https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th@SD",Thairath TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+#EXTINF:-1 tvg-id="TNN16.th@SD",TNN16
+https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMuslimThailand.th@SD",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 tvg-id="UmmTV.th@SD",Umm TV (576p)
+https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8
+#EXTINF:-1 tvg-id="WhiteChannel.th@SD",White Channel (1080p)
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="WorkpointTV.th@SD",Workpoint TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+#EXTINF:-1 tvg-id="WorldEntertainmentTV42.th@SD",World Entertainment TV 42
+http://3bb.engatetv.com:25461/hstn/line/147
+#EXTINF:-1 tvg-id="ZabbChannel.th@SD",Zabb Channel (720p)
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeNung.th@SD",Zee Nung (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.th@SD",Channel 7 [Geo-blocked]
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_10.m3u8
+#EXTINF:-1 tvg-id="Boomerang.th@SD",Boomerang
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
