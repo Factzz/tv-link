@@ -100,8 +100,6 @@ https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
 https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13fx1Kss/IMG-4950.png" group-title="ไม่มีหมวดหมู่",Stingray Thai Pop
 https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGdw5h1F/IMG-2465.png" group-title="ไม่มีหมวดหมู่",YG TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsYNb8M/IMG-2469.png" group-title="ไม่มีหมวดหมู่",MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHJSzhFb/IMG-3394.png" group-title="ไม่มีหมวดหมู่",M2 Rock
@@ -126,36 +124,6 @@ http://118.27.146.131:1935/live/livestream/playlist.m3u8
 http://180.180.243.239/streams/3/hls
 #EXTINF:-1 tvg-id="STOUChannel.th" tvg-name="STOU Channel" tvg-logo="https://i.postimg.cc/rsxqZcsQ/IMG-1891.png" group-title="Undefined",STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Education",DLTV 1
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV 2" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Education",DLTV 2
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-id="DLTV3.th" tvg-name="DLTV 3" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Education",DLTV 3
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 tvg-id="DLTV4.th" tvg-name="DLTV 4" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Education",DLTV 4
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 tvg-id="DLTV5.th" tvg-name="DLTV 5" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Education",DLTV 5
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 tvg-id="DLTV6.th" tvg-name="DLTV 6" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Education",DLTV 6
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 tvg-id="DLTV7.th" tvg-name="DLTV 7" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Education",DLTV 7
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-id="DLTV8.th" tvg-name="DLTV 8" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Education",DLTV 8
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 tvg-id="DLTV9.th" tvg-name="DLTV 9" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Education",DLTV 9
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:-1 tvg-id="DLTV10.th" tvg-name="DLTV 10" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Education",DLTV 10
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-id="DLTV11.th" tvg-name="DLTV 11" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Education",DLTV 11
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 tvg-id="DLTV12.th" tvg-name="DLTV 12" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Education",DLTV 12
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 tvg-id="DLTV13.th" tvg-name="DLTV 13" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Education",DLTV 13
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-id="DLTV14.th" tvg-name="DLTV 14" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Education",DLTV 14
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 tvg-id="DLTV15.th" tvg-name="DLTV 15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Education",DLTV 15
-https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KyI0s5n.png" group-title="ไม่มีหมวดหมู่",TSports 7
 http://3bb.engatetv.com:25461/hstn/line/36
 #EXTINF:-1 group-title="ไม่มีหมวดหมู่",USA network 
