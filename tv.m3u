@@ -100,6 +100,8 @@ https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
 https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13fx1Kss/IMG-4950.png" group-title="ไม่มีหมวดหมู่",Stingray Thai Pop
 https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGdw5h1F/IMG-2465.png" group-title="ไม่มีหมวดหมู่",YG TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsYNb8M/IMG-2469.png" group-title="ไม่มีหมวดหมู่",MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHJSzhFb/IMG-3394.png" group-title="ไม่มีหมวดหมู่",M2 Rock
@@ -176,10 +178,6 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
 #EXTINF:-1 tvg-id="3HD.th@SD",3HD (576p)
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
-#EXTINF:-1 tvg-id="ALTV.th@SD",ALTV (1080p)
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="ALTV.th@SD",ALTV 4 (1080p)
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AmarinTV.th@SD",Amarin TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 #EXTINF:-1 tvg-id="BoonniyomTV.th@SD",Boonniyom TV (720p)
@@ -268,5 +266,5 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7.th@SD",Channel 7 [Geo-blocked]
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_10.m3u8
-#EXTINF:-1 tvg-id="Boomerang.th@SD",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.th@SD",Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png"
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
